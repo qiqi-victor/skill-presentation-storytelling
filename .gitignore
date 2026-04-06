@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OpenClaw local
+.openclaw/
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp
+tmp/
+temp/
+*.tmp
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build
+dist/
+build/
