@@ -124,8 +124,8 @@ Skill 会自动识别场景类型，引导你完成：
 
 ## 相关项目
 
-- [ppt-ai-project](https://github.com/qiqi-victor/ppt-ai) — PPT 完整工作流
-- [openclaw-skills](https://github.com/qiqi-victor/openclaw-skills) — 其他 OpenClaw Skills
+- <a href="https://github.com/qiqi-victor/ppt-ai" target="_blank">ppt-ai-project</a> — PPT 完整工作流
+- <a href="https://github.com/qiqi-victor/openclaw-skills" target="_blank">openclaw-skills</a> — 其他 OpenClaw Skills
 
 ---
 
